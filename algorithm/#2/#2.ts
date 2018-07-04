@@ -17,7 +17,7 @@
  */
 const product = (nums: number[]): number[] | null => {
   const productsBelow = [];
-  const productsAbove = [];
+  const result = [];
 
   let init = 1;
   for (let i = 0; i < nums.length; i++) {
@@ -27,15 +27,11 @@ const product = (nums: number[]): number[] | null => {
 
   init = 1;
   for (let i = nums.length - 1; i >= 0; i--) {
-    productsAbove[i] = init;
+    result[i] = init * productsBelow[i];
     init *= nums[i];
   }
 
-  for (let i = 0; i < productsBelow.length - 1; i++) {
-    productsBelow[i] = productsBelow[i] * productsAbove[i];
-  }
-
-  return productsBelow;
+  return result;
 };
 
 export default product;
