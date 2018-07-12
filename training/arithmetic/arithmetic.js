@@ -1,9 +1,11 @@
 // 获取优先级
-let getPriority = sign => {
+const comparePriority = sign => {
   return ['+-', '/*'].findIndex(str => str.includes(sign));
 };
 
-let getBolan = str => {
+const isNumber = n => !isNaN(n);
+
+const getBolan = str => {
   const stack = [];
   let bolan = [];
   str = str.split(' ');
@@ -12,7 +14,7 @@ let getBolan = str => {
 
   for (let i = 0; i < str.length; i++) {
     const sign = str[i];
-    if (!isNaN(sign)) {
+    if (isNumber(sign)) {
       bolan.push(sign);
     } else {
       if (sign === ')') {
@@ -25,9 +27,9 @@ let getBolan = str => {
         }
       } else {
         // 栈顶优先级高就出栈
-        const signPriority = getPriority(sign);
-        if (signPriority > -1 && signPriority < getPriority(peek())) {
-          while (peek() && signPriority < getPriority(peek())) {
+        const signPriority = comparePriority(sign);
+        if (signPriority > -1 && signPriority < comparePriority(peek())) {
+          while (peek() && signPriority < comparePriority(peek())) {
             const popStr = stack.pop();
             bolan.push(popStr);
           }
@@ -41,31 +43,23 @@ let getBolan = str => {
   return bolan.concat(stack.reverse());
 };
 
-let calcBolan = str => {
+const calc = str => {
   const bolan = getBolan(str);
-  const result = [];
+  const stack = [];
   while (bolan.length) {
     const str = bolan.shift();
-    if (!isNaN(str)) {
-      result.push(str);
+    if (isNumber(str)) {
+      stack.push(str);
     } else {
-      const num2 = +result.pop();
-      const num1 = +result.pop();
-      if (str === '+') {
-        result.push(num1 + num2);
-      }
-      if (str === '-') {
-        result.push(num1 - num2);
-      }
-      if (str === '*') {
-        result.push(num1 * num2);
-      }
-      if (str === '/') {
-        result.push(num1 / num2);
-      }
+      const num2 = +stack.pop();
+      const num1 = +stack.pop();
+      if (str === '+') stack.push(num1 + num2);
+      if (str === '-') stack.push(num1 - num2);
+      if (str === '*') stack.push(num1 * num2);
+      if (str === '/') stack.push(num1 / num2);
     }
   }
-  return result[0];
+  return stack[0];
 };
 
-calcBolan('9 + ( 3 - 1 ) * 3 + 10 / 2');
+calc('9 + ( 3 - 1 ) * 3 + 10 / 2');
