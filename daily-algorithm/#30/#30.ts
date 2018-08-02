@@ -20,3 +20,5 @@ const walls = (nums: number[]) => {
   }
   return water
 }
+
+export default walls
