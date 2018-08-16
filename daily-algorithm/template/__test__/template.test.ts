@@ -1,6 +1,6 @@
 import func from '../template';
 
-describe('#40', () => {
+describe.skip('template', () => {
   it('测试', () => {
     expect(func()).toEqual(undefined);
   });
