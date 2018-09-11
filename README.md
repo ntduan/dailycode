@@ -15,3 +15,11 @@
 - [冒泡排序](./sorting/bubble-sort)
 - [选择排序](./sorting/insertion-sort)
 - [插入排序](./sorting/selection-sort)
+
+
+## 数组
+#### [Remove-Duplicates-from-Sorted-Array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+#### [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
+
+## 双指针
+#### [remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
