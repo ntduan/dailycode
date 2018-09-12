@@ -18,8 +18,16 @@
 
 
 ## 数组
-#### [Remove-Duplicates-from-Sorted-Array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
-#### [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
+##### [Remove-Duplicates-from-Sorted-Array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+##### [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
+##### [Contains-Duplicate](./leetcode/Contains-Duplicate.ts)
+##### [Rotate-Array](./leetcode/Rotate-Array.ts)
+##### [Single-Number](./leetcode/Single-Number.ts)
+##### [Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)
+##### [Plus-One](./leetcode/Plus-One.ts)
+##### [Move-Zeroes](./leetcode/Move-Zeroes.ts)
 
 ## 双指针
-#### [remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+##### [remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+##### [Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)
+##### [Move-Zeroes](./leetcode/Move-Zeroes.ts)
