@@ -7,7 +7,7 @@
  * 定义一个空数组，然后遍历 nums2, 如果 nums2 中的值在哈希表中存在，且数量大于 0 ，则将这个 key 推入 result 中。数量 -1。
  */
 // const intersect = (nums1: number[], nums2: number[]): number[] => {
-//   const intersectMap = new Map();
+//   const intersectMap = {};
 //   for (let i = 0; i < nums1.length; i++) {
 //     intersectMap[nums1[i]] = (intersectMap[nums1[i]] || 0) + 1;
 //   }

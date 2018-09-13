@@ -23,9 +23,16 @@
 ##### [Contains-Duplicate](./leetcode/Contains-Duplicate.ts)
 ##### [Rotate-Array](./leetcode/Rotate-Array.ts)
 ##### [Single-Number](./leetcode/Single-Number.ts)
-##### [Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)
+##### **[Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)**
 ##### [Plus-One](./leetcode/Plus-One.ts)
 ##### [Move-Zeroes](./leetcode/Move-Zeroes.ts)
+##### [Two-Sum](./leetcode/Two-Sum.ts)
+##### [Find-the-Duplicate-Number](./leetcode/Find-the-Duplicate-Number.ts) ？？
+##### [Find-Pivot-Index](./leetcode/Find-Pivot-Index.ts)
+
+## 字符串
+##### [Shortest-Distance-to-a-Character](./leetcode/Shortest-Distance-to-a-Character.ts)
+
 
 ## 双指针
 ##### [remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
