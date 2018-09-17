@@ -1,4 +1,27 @@
-## 每日算法
+## LeetCode
+
+### 数组
+
+- [x] [#双指针][Remove-Duplicates-from-Sorted-Array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+- [x] [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
+- [x] [Contains-Duplicate](./leetcode/Contains-Duplicate.ts)
+- [x] [Rotate-Array](./leetcode/Rotate-Array.ts)
+- [x] [Single-Number](./leetcode/Single-Number.ts)
+- [ ] [#双指针][Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)
+- [x] [Plus-One](./leetcode/Plus-One.ts)
+- [x] [#双指针][Move-Zeroes](./leetcode/Move-Zeroes.ts)
+- [x] [Two-Sum](./leetcode/Two-Sum.ts)
+- [x] [Find-the-Duplicate-Number](./leetcode/Find-the-Duplicate-Number.ts)
+- [x] [Find-Pivot-Index](./leetcode/Find-Pivot-Index.ts)
+- [x] [degree-of-an-array](./leetcode/degree-of-an-array.ts)
+
+### 字符串
+
+- [x] [Shortest-Distance-to-a-Character](./leetcode/Shortest-Distance-to-a-Character.ts)
+- [ ] [palindrome-number](./leetcode/palindrome-number.ts)
+
+
+## 每日算法s
 
 - [#1 两数之和](./#1)
 - [#2 除自身以外数组的乘积](./#2)
@@ -16,25 +39,3 @@
 - [选择排序](./sorting/insertion-sort)
 - [插入排序](./sorting/selection-sort)
 
-
-## 数组
-##### [Remove-Duplicates-from-Sorted-Array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
-##### [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
-##### [Contains-Duplicate](./leetcode/Contains-Duplicate.ts)
-##### [Rotate-Array](./leetcode/Rotate-Array.ts)
-##### [Single-Number](./leetcode/Single-Number.ts)
-##### **[Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)**
-##### [Plus-One](./leetcode/Plus-One.ts)
-##### [Move-Zeroes](./leetcode/Move-Zeroes.ts)
-##### [Two-Sum](./leetcode/Two-Sum.ts)
-##### [Find-the-Duplicate-Number](./leetcode/Find-the-Duplicate-Number.ts) ？？
-##### [Find-Pivot-Index](./leetcode/Find-Pivot-Index.ts)
-
-## 字符串
-##### [Shortest-Distance-to-a-Character](./leetcode/Shortest-Distance-to-a-Character.ts)
-
-
-## 双指针
-##### [remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
-##### [Intersection-of-Two-Arrays-II](./leetcode/Intersection-of-Two-Arrays-II.ts)
-##### [Move-Zeroes](./leetcode/Move-Zeroes.ts)
