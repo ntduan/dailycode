@@ -26,6 +26,13 @@
 
 - [x] [Shortest-Distance-to-a-Character](./leetcode/Shortest-Distance-to-a-Character.ts)
 - [ ] [palindrome-number](./leetcode/palindrome-number.ts)
+- [ ] [roman-to-integer](./leetcode/roman-to-integer.ts)
+- [x] [reverse-string](./leetcode/reverse-string.ts)
+
+### 数学
+
+- [x] [number-of-1-bits](./leetcode/number-of-1-bits.ts)
+- [x] [nim-game](./leetcode/nim-game.ts)
 
 
 ## 每日算法
