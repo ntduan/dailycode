@@ -39,6 +39,10 @@
 
 - [x] [#二分查找] [search-insert-position](./leetcode/search-insert-position.ts)
 
+### 动态规划
+
+- [x] [#动态规划] [climbing-stairs](./leetcode/climbing-stairs.ts)
+
 ## 每日算法
 
 - [#1 两数之和](./#1)
