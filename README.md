@@ -22,6 +22,7 @@
 - [x] [degree-of-an-array](./leetcode/degree-of-an-array.ts)
 - [ ] [majority-element](./leetcode/majority-element.ts)
 - [ ] [majority-element-ii](./leetcode/majority-element-ii.ts)
+- [ ] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
 
 ### 字符串
 
@@ -42,6 +43,8 @@
 ### 动态规划
 
 - [x] [#动态规划] [climbing-stairs](./leetcode/climbing-stairs.ts)
+- [x] [#动态规划] [best-time-to-buy-and-sell-stock](./leetcode/best-time-to-buy-and-sell-stock.ts)
+- [ ] [#动态规划] [maximum-subarray](./leetcode/maximum-subarray.ts)
 
 ## 每日算法
 
