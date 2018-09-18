@@ -2,6 +2,7 @@
 
 - [插入排序](./algorithms/sorting/selection-sort)
 - [多数投票算法(Majority Voting Algorithm)](./algorithms/majority-voting.md)
+- [二分查找](./algorithms/binary-search.md)
 
 ## LeetCode
 
@@ -34,6 +35,9 @@
 - [x] [number-of-1-bits](./leetcode/number-of-1-bits.ts)
 - [x] [nim-game](./leetcode/nim-game.ts)
 
+### 排序和搜索
+
+- [x] [#二分查找] [search-insert-position](./leetcode/search-insert-position.ts)
 
 ## 每日算法
 
