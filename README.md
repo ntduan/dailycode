@@ -41,8 +41,9 @@
 
 - [x] [number-of-1-bits](./leetcode/number-of-1-bits.ts)
 - [x] [nim-game](./leetcode/nim-game.ts)
+- [x] [count-numbers-with-unique-digits](./leetcode/count-numbers-with-unique-digits.ts)
 
-### 排序和搜索
+### 排序和搜索s
 
 - [x] [#二分查找] [search-insert-position](./leetcode/search-insert-position.ts)
 - [ ] [#排序] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
