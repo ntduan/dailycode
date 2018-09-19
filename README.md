@@ -22,7 +22,6 @@
 - [x] [degree-of-an-array](./leetcode/degree-of-an-array.ts)
 - [ ] [majority-element](./leetcode/majority-element.ts)
 - [ ] [majority-element-ii](./leetcode/majority-element-ii.ts)
-- [ ] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
 
 ### 字符串
 
@@ -39,6 +38,8 @@
 ### 排序和搜索
 
 - [x] [#二分查找] [search-insert-position](./leetcode/search-insert-position.ts)
+- [ ] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
+- [x] [#二分查找] [find-all-duplicates-in-an-array](./leetcode/find-all-duplicates-in-an-array.ts)
 
 ### 动态规划
 
