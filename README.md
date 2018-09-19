@@ -33,6 +33,7 @@
 - [x] [robot-return-to-origin](./leetcode/robot-return-to-origin.ts)
 - [x] [longest-uncommon-subsequence-i](./leetcode/longest-uncommon-subsequence-i.ts)
 - [x] [ransom-note](./leetcode/ransom-note.ts)
+- [ ] [#双指针] [string-compression](./leetcode/string-compression.ts)
 
 ### 数学
 
