@@ -36,6 +36,7 @@
 - [x] [longest-uncommon-subsequence-i](./leetcode/longest-uncommon-subsequence-i.ts)
 - [x] [ransom-note](./leetcode/ransom-note.ts)
 - [ ] [#双指针] [string-compression](./leetcode/string-compression.ts)
+- [x] [reverse-words-in-a-string](./leetcode/reverse-words-in-a-string.ts)
 
 ### 数学
 
@@ -44,11 +45,12 @@
 - [x] [count-numbers-with-unique-digits](./leetcode/count-numbers-with-unique-digits.ts)
 - [ ] [pascals-triangle-ii](./leetcode/pascals-triangle-ii.ts)
 
-### 排序和搜索s
+### 排序和搜索
 
 - [x] [#二分查找] [search-insert-position](./leetcode/search-insert-position.ts)
 - [ ] [#排序] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
 - [x] [#排序] [find-all-duplicates-in-an-array](./leetcode/find-all-duplicates-in-an-array.ts)
+- [x] [#二分查找] [single-element-in-a-sorted-array](./leetcode/single-element-in-a-sorted-array.ts)
 
 ### 动态规划
 
