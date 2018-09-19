@@ -23,6 +23,7 @@
 - [ ] [majority-element](./leetcode/majority-element.ts)
 - [ ] [majority-element-ii](./leetcode/majority-element-ii.ts)
 - [x] [#贪心算法] [can-place-flowers](./leetcode/can-place-flowers.ts)
+- [x] [fair-candy-swap](./leetcode/fair-candy-swap.ts)
 
 ### 字符串
 
