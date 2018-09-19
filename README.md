@@ -22,7 +22,7 @@
 - [x] [degree-of-an-array](./leetcode/degree-of-an-array.ts)
 - [ ] [majority-element](./leetcode/majority-element.ts)
 - [ ] [majority-element-ii](./leetcode/majority-element-ii.ts)
-- [x] [robot-return-to-origin](./leetcode/robot-return-to-origin.ts)
+- [x] [#贪心算法] [can-place-flowers](./leetcode/can-place-flowers.ts)
 
 ### 字符串
 
@@ -30,6 +30,8 @@
 - [ ] [palindrome-number](./leetcode/palindrome-number.ts)
 - [ ] [roman-to-integer](./leetcode/roman-to-integer.ts)
 - [x] [reverse-string](./leetcode/reverse-string.ts)
+- [x] [robot-return-to-origin](./leetcode/robot-return-to-origin.ts)
+- [x] [longest-uncommon-subsequence-i](./leetcode/longest-uncommon-subsequence-i.ts)
 
 ### 数学
 
