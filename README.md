@@ -40,6 +40,7 @@
 - [x] [reverse-words-in-a-string](./leetcode/reverse-words-in-a-string.ts)
 - [x] [isomorphic-strings](./leetcode/isomorphic-strings.ts)
 - [x] [jewels-and-stones](./leetcode/jewels-and-stones.ts)
+- [x] [to-lower-case](./leetcode/to-lower-case.ts)
 
 ### 数学
 
