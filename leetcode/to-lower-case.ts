@@ -11,11 +11,5 @@
 
 /**
  * 根据 ASIIC
+ * 略
  */
-const toLowerCase = str => {
-  let s = ''
-  for(let i = 0; i < str.length; i++) {
-    s += String.fromCharCode(str[i].charCodeAt(0) - 32)
-  }
-  return s
-};

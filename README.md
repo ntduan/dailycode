@@ -62,6 +62,11 @@
 - [x] [#动态规划] [best-time-to-buy-and-sell-stock](./leetcode/best-time-to-buy-and-sell-stock.ts)
 - [ ] [#动态规划] [maximum-subarray](./leetcode/maximum-subarray.ts)
 
+### 系统设计
+
+- [x] [encode-and-decode-tinyurl](./leetcodeencode-and-decode-tinyurl/.ts)
+
+
 ## 每日算法
 
 - [#1 两数之和](./#1)
