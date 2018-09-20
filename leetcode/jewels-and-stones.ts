@@ -4,7 +4,7 @@
 
 /**
  * hash 表
-*/
+ */
 const numJewelsInStones = (J, S) => {
   const jMap = {};
   for (let i = 0; i < J.length; i++) {

@@ -25,6 +25,7 @@
 - [x] [#贪心算法] [can-place-flowers](./leetcode/can-place-flowers.ts)
 - [x] [fair-candy-swap](./leetcode/fair-candy-swap.ts)
 - [x] [#正则表达式] [detect-capital](./leetcode/detect-capital.ts)
+- [x] [max-increase-to-keep-city-skyline](./leetcode/max-increase-to-keep-city-skyline.ts)
 
 ### 字符串
 
