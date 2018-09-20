@@ -55,6 +55,7 @@
 - [ ] [#排序] [find-all-numbers-disappeared-in-an-array](./leetcode/find-all-numbers-disappeared-in-an-array.ts)
 - [x] [#排序] [find-all-duplicates-in-an-array](./leetcode/find-all-duplicates-in-an-array.ts)
 - [x] [#二分查找] [single-element-in-a-sorted-array](./leetcode/single-element-in-a-sorted-array.ts)
+- [x] [#排序] [sort-array-by-parity](./leetcode/sort-array-by-parity.ts)
 
 ### 动态规划
 
