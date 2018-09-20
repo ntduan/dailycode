@@ -38,6 +38,7 @@
 - [ ] [#双指针] [string-compression](./leetcode/string-compression.ts)
 - [x] [reverse-words-in-a-string](./leetcode/reverse-words-in-a-string.ts)
 - [x] [isomorphic-strings](./leetcode/isomorphic-strings.ts)
+- [x] [jewels-and-stones](./leetcode/jewels-and-stones.ts)
 
 ### 数学
 
