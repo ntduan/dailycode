@@ -37,6 +37,7 @@
 - [x] [ransom-note](./leetcode/ransom-note.ts)
 - [ ] [#双指针] [string-compression](./leetcode/string-compression.ts)
 - [x] [reverse-words-in-a-string](./leetcode/reverse-words-in-a-string.ts)
+- [x] [isomorphic-strings](./leetcode/isomorphic-strings.ts)
 
 ### 数学
 
