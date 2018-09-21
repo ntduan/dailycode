@@ -26,6 +26,7 @@
 - [x] [fair-candy-swap](./leetcode/fair-candy-swap.ts)
 - [x] [#正则表达式] [detect-capital](./leetcode/detect-capital.ts)
 - [x] [max-increase-to-keep-city-skyline](./leetcode/max-increase-to-keep-city-skyline.ts)
+- [x] [flipping-an-image](./leetcode/flipping-an-image.ts)
 
 ### 字符串
 
@@ -42,6 +43,7 @@
 - [x] [jewels-and-stones](./leetcode/jewels-and-stones.ts)
 - [x] [to-lower-case](./leetcode/to-lower-case.ts)
 - [x] [unique-morse-code-words](./leetcode/unique-morse-code-words.ts)
+- [x] [find-and-replace-pattern](./leetcode/find-and-replace-pattern.ts)
 
 ### 数学
 
@@ -49,6 +51,7 @@
 - [x] [nim-game](./leetcode/nim-game.ts)
 - [x] [count-numbers-with-unique-digits](./leetcode/count-numbers-with-unique-digits.ts)
 - [ ] [pascals-triangle-ii](./leetcode/pascals-triangle-ii.ts)
+- [x] [hamming-distance](./leetcode/hamming-distance.ts)
 
 ### 排序和搜索
 
