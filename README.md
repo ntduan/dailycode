@@ -27,6 +27,7 @@
 - [x] [#正则表达式] [detect-capital](./leetcode/detect-capital.ts)
 - [x] [max-increase-to-keep-city-skyline](./leetcode/max-increase-to-keep-city-skyline.ts)
 - [x] [flipping-an-image](./leetcode/flipping-an-image.ts)
+- [ ] [#贪心算法] [score-after-flipping-matrix](./leetcode/score-after-flipping-matrix.ts)
 
 ### 字符串
 
