@@ -1,3 +1,7 @@
+## 代码片段
+
+- [Function.prototype.bind 实现](./jscode/bind.js)
+
 ## 算法
 
 - [插入排序](./algorithms/sorting/selection-sort)
@@ -53,6 +57,7 @@
 - [x] [count-numbers-with-unique-digits](./leetcode/count-numbers-with-unique-digits.ts)
 - [ ] [pascals-triangle-ii](./leetcode/pascals-triangle-ii.ts)
 - [x] [hamming-distance](./leetcode/hamming-distance.ts)
+- [x] [self-dividing-numbers](./leetcode/self-dividing-numbers.ts)
 
 ### 排序和搜索
 
@@ -62,6 +67,7 @@
 - [x] [#二分查找] [single-element-in-a-sorted-array](./leetcode/single-element-in-a-sorted-array.ts)
 - [x] [#排序] [sort-array-by-parity](./leetcode/sort-array-by-parity.ts)
 - [x] [#二分查找] [peak-index-in-a-mountain-array](./leetcode/peak-index-in-a-mountain-array.ts)
+- [x] [array-partition-i](./leetcode/array-partition-i.ts)
 
 ### 动态规划
 
