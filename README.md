@@ -60,6 +60,7 @@
 - [ ] [pascals-triangle-ii](./leetcode/pascals-triangle-ii.ts)
 - [x] [hamming-distance](./leetcode/hamming-distance.ts)
 - [x] [self-dividing-numbers](./leetcode/self-dividing-numbers.ts)
+- [x] [number-complement](./leetcode/number-complement.ts)
 
 ### 排序和搜索
 
