@@ -49,6 +49,7 @@
 - [x] [to-lower-case](./leetcode/to-lower-case.ts)
 - [x] [unique-morse-code-words](./leetcode/unique-morse-code-words.ts)
 - [x] [find-and-replace-pattern](./leetcode/find-and-replace-pattern.ts)
+- [x] [number-of-lines-to-write-string](./leetcode/number-of-lines-to-write-string.ts)
 
 ### 数学
 
