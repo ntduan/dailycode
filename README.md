@@ -51,6 +51,7 @@
 - [x] [find-and-replace-pattern](./leetcode/find-and-replace-pattern.ts)
 - [x] [number-of-lines-to-write-string](./leetcode/number-of-lines-to-write-string.ts)
 - [x] [reverse-words-in-a-string-iii](./leetcode/reverse-words-in-a-string-iii.ts)
+- [ ] [subdomain-visit-count](./leetcode/subdomain-visit-count.ts)
 
 ### 数学
 
