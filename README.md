@@ -62,6 +62,7 @@
 - [x] [hamming-distance](./leetcode/hamming-distance.ts)
 - [x] [self-dividing-numbers](./leetcode/self-dividing-numbers.ts)
 - [x] [number-complement](./leetcode/number-complement.ts)
+- [x] [reverse-integer](./leetcode/reverse-integer.ts)
 
 ### 排序和搜索
 
