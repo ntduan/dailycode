@@ -72,6 +72,7 @@
 - [x] [#排序] [sort-array-by-parity](./leetcode/sort-array-by-parity.ts)
 - [x] [#二分查找] [peak-index-in-a-mountain-array](./leetcode/peak-index-in-a-mountain-array.ts)
 - [x] [array-partition-i](./leetcode/array-partition-i.ts)
+- [x] [#插入排序 #双指针] [remove-element](./leetcode/remove-element.ts)
 
 ### 动态规划
 
