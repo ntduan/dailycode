@@ -82,6 +82,7 @@
 - [x] [#动态规划] [climbing-stairs](./leetcode/climbing-stairs.ts)
 - [x] [#动态规划] [best-time-to-buy-and-sell-stock](./leetcode/best-time-to-buy-and-sell-stock.ts)
 - [ ] [#动态规划] [maximum-subarray](./leetcode/maximum-subarray.ts)
+- [x] [#动态规划] [house-robber](./leetcode/house-robber.ts)
 
 ### 系统设计
 
