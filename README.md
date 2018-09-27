@@ -34,6 +34,7 @@
 - [x] [flipping-an-image](./leetcode/flipping-an-image.ts)
 - [ ] [missing-number](./leetcode/missing-number.ts)
 - [ ] [valid-sudoku](./leetcode/valid-sudoku.ts)
+- [ ] [rotate-image](./leetcode/rotate-image.ts)
 
 ### 字符串
 
