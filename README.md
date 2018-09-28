@@ -56,6 +56,7 @@
 - [x] [reverse-words-in-a-string-iii](./leetcode/reverse-words-in-a-string-iii.ts)
 - [ ] [subdomain-visit-count](./leetcode/subdomain-visit-count.ts)
 - [ ] [first-unique-character-in-a-string](./leetcode/first-unique-character-in-a-string.ts)
+- [x] [valid-palindrome](./leetcode/valid-palindrome.ts)
 
 ### 数学
 
