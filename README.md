@@ -70,6 +70,7 @@
 - [x] [self-dividing-numbers](./leetcode/self-dividing-numbers.ts)
 - [x] [number-complement](./leetcode/number-complement.ts)
 - [x] [reverse-integer](./leetcode/reverse-integer.ts)
+- [x] [reverse-bits](./leetcode/reverse-bits.ts)
 
 ### 排序和搜索
 
@@ -92,8 +93,11 @@
 
 ### 系统设计
 
-- [x] [encode-and-decode-tinyurl](./leetcodeencode-and-decode-tinyurl/.ts)
+- [x] [encode-and-decode-tinyurl](./leetcode/encode-and-decode-tinyurl/.ts)
 
+### 数据结构
+
+- [x] [valid-parentheses](./leetcode/valid-parentheses/.ts)
 
 ## 每日算法
 
