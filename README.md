@@ -57,6 +57,7 @@
 - [ ] [subdomain-visit-count](./leetcode/subdomain-visit-count.ts)
 - [ ] [first-unique-character-in-a-string](./leetcode/first-unique-character-in-a-string.ts)
 - [x] [valid-palindrome](./leetcode/valid-palindrome.ts)
+- [x] [valid-anagram](./leetcode/valid-anagram.ts)
 
 ### 数学
 
