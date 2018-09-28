@@ -58,6 +58,7 @@
 - [ ] [first-unique-character-in-a-string](./leetcode/first-unique-character-in-a-string.ts)
 - [x] [valid-palindrome](./leetcode/valid-palindrome.ts)
 - [x] [valid-anagram](./leetcode/valid-anagram.ts)
+- [x] [string-to-integer-ato](./leetcode/string-to-integer-ato.ts)
 
 ### 数学
 
