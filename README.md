@@ -87,6 +87,7 @@
 - [x] [array-partition-i](./leetcode/array-partition-i.ts)
 - [x] [#插入排序 #双指针] [remove-element](./leetcode/remove-element.ts)
 - [x] [#插入排序] [merge-sorted-array](./leetcode/merge-sorted-array.ts)
+- [x] [#二分查找] [first-bad-version](./leetcode/first-bad-version.ts)
 
 ### 动态规划
 
