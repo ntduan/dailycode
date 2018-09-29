@@ -74,6 +74,7 @@
 - [x] [reverse-bits](./leetcode/reverse-bits.ts)
 - [x] [power-of-three](./leetcode/power-of-three.ts)
 - [ ] [count-primes](./leetcode/count-primes.ts)
+- [ ] [fizz-buzz](./leetcode/fizz-buzz.ts)
 
 ### 排序和搜索
 
