@@ -72,6 +72,7 @@
 - [x] [number-complement](./leetcode/number-complement.ts)
 - [x] [reverse-integer](./leetcode/reverse-integer.ts)
 - [x] [reverse-bits](./leetcode/reverse-bits.ts)
+- [x] [power-of-three](./leetcode/power-of-three.ts)
 
 ### 排序和搜索
 
