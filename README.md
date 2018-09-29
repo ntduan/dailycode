@@ -35,6 +35,7 @@
 - [ ] [missing-number](./leetcode/missing-number.ts)
 - [ ] [valid-sudoku](./leetcode/valid-sudoku.ts)
 - [ ] [rotate-image](./leetcode/rotate-image.ts)
+- [x] [pascals-triangle](./leetcode/pascals-triangle.ts)
 
 ### 字符串
 
