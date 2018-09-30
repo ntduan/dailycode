@@ -104,7 +104,11 @@
 
 ### 数据结构
 
-- [x] [valid-parentheses](./leetcode/valid-parentheses/.ts)
+- [x] [valid-parentheses](./leetcode/valid-parentheses.ts)
+
+## 日常代码
+
+- [数据转化--广度优先遍历](./example/add-level.ts)
 
 ## 每日算法
 
