@@ -36,6 +36,7 @@
 - [ ] [valid-sudoku](./leetcode/valid-sudoku.ts)
 - [ ] [rotate-image](./leetcode/rotate-image.ts)
 - [x] [pascals-triangle](./leetcode/pascals-triangle.ts)
+- [x] [x-of-a-kind-in-a-deck-of-cards](./leetcode/x-of-a-kind-in-a-deck-of-cards.ts)
 
 ### 字符串
 
@@ -95,6 +96,7 @@
 - [x] [#动态规划] [best-time-to-buy-and-sell-stock](./leetcode/best-time-to-buy-and-sell-stock.ts)
 - [ ] [#动态规划] [maximum-subarray](./leetcode/maximum-subarray.ts)
 - [x] [#动态规划] [house-robber](./leetcode/house-robber.ts)
+- [x] [#动态规划] [partition-array-into-disjoint-intervals](./leetcode/partition-array-into-disjoint-intervals.ts)
 
 ### 系统设计
 
