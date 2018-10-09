@@ -61,6 +61,7 @@
 - [x] [valid-palindrome](./leetcode/valid-palindrome.ts)
 - [x] [valid-anagram](./leetcode/valid-anagram.ts)
 - [x] [string-to-integer-ato](./leetcode/string-to-integer-ato.ts)
+- [ ] [implement-strstr](./leetcode/implement-strstr.ts)
 
 ### 数学
 
