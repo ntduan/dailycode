@@ -62,7 +62,7 @@
 - [x] [valid-palindrome](./leetcode/valid-palindrome.ts)
 - [x] [valid-anagram](./leetcode/valid-anagram.ts)
 - [x] [string-to-integer-ato](./leetcode/string-to-integer-ato.ts)
-- [ ] [implement-strstr](./leetcode/implement-strstr.ts)
+- [ ] [#KMP-算法] [implement-strstr](./leetcode/implement-strstr.ts)
 - [x] [count-and-say](./leetcode/count-and-say.ts)
 
 ### 数学
