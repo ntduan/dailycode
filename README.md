@@ -64,6 +64,7 @@
 - [x] [string-to-integer-ato](./leetcode/string-to-integer-ato.ts)
 - [ ] [#KMP-算法] [implement-strstr](./leetcode/implement-strstr.ts)
 - [x] [count-and-say](./leetcode/count-and-say.ts)
+- [ ] [longest-common-prefix](./leetcode/longest-common-prefix.ts)
 
 ### 数学
 
