@@ -7,6 +7,7 @@
 - [插入排序](./algorithms/sorting/selection-sort)
 - [多数投票算法(Majority Voting Algorithm)](./algorithms/majority-voting.md)
 - [二分查找](./algorithms/binary-search.md)
+- [KMP 算法](./algorithms/kmp.md)
 
 ## LeetCode
 
