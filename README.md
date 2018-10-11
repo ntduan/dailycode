@@ -39,6 +39,10 @@
 - [x] [pascals-triangle](./leetcode/pascals-triangle.ts)
 - [x] [x-of-a-kind-in-a-deck-of-cards](./leetcode/x-of-a-kind-in-a-deck-of-cards.ts)
 
+### 树和图
+
+- [ ] [#BFS] [#DFS] [maximum-depth-of-binary-tree](./leetcode/maximum-depth-of-binary-tree.ts)
+
 ### 字符串
 
 - [x] [Shortest-Distance-to-a-Character](./leetcode/Shortest-Distance-to-a-Character.ts)
