@@ -8,6 +8,7 @@
 - [多数投票算法(Majority Voting Algorithm)](./algorithms/majority-voting.md)
 - [二分查找](./algorithms/binary-search.md)
 - [KMP 算法](./algorithms/kmp.md)
+- [BFS 广度优先搜索](./algorithms/bfs.md)
 
 ## LeetCode
 
