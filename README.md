@@ -44,6 +44,7 @@
 
 - [ ] [#BFS] [#DFS] [maximum-depth-of-binary-tree](./leetcode/maximum-depth-of-binary-tree.ts)
 - [x] [#BFS] [binary-tree-level-order-traversal](./leetcode/binary-tree-level-order-traversal.ts)
+- [ ] [#BFS] [symmetric-tree](./leetcode/symmetric-tree.ts)
 
 ### 字符串
 
