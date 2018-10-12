@@ -43,6 +43,7 @@
 ### 树和图
 
 - [ ] [#BFS] [#DFS] [maximum-depth-of-binary-tree](./leetcode/maximum-depth-of-binary-tree.ts)
+- [x] [#BFS] [binary-tree-level-order-traversal](./leetcode/binary-tree-level-order-traversal.ts)
 
 ### 字符串
 
