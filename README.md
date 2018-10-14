@@ -9,6 +9,7 @@
 - [二分查找](./algorithms/binary-search.md)
 - [KMP 算法](./algorithms/kmp.md)
 - [BFS 广度优先搜索](./algorithms/bfs.md)
+- [Floyd判圈算法](https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95)
 
 ## LeetCode
 
@@ -87,6 +88,7 @@
 - [x] [power-of-three](./leetcode/power-of-three.ts)
 - [ ] [count-primes](./leetcode/count-primes.ts)
 - [ ] [fizz-buzz](./leetcode/fizz-buzz.ts)
+- [ ] [#Floyd判圈算法] [happy-number](./leetcode/happy-number.ts)
 
 ### 排序和搜索
 
