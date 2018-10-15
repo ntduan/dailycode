@@ -40,6 +40,7 @@
 - [ ] [rotate-image](./leetcode/rotate-image.ts)
 - [x] [pascals-triangle](./leetcode/pascals-triangle.ts)
 - [x] [x-of-a-kind-in-a-deck-of-cards](./leetcode/x-of-a-kind-in-a-deck-of-cards.ts)
+- [x] [#双指针] [sort-array-by-parity-ii](./leetcode/sort-array-by-parity-ii.ts)
 
 ### 树和图
 
