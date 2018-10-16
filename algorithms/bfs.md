@@ -36,3 +36,5 @@ const BFS = root => {
   return visited;
 };
 ```
+
+> [维基百科](https://zh.wikipedia.org/zh/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
