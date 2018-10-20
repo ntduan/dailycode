@@ -1,6 +1,7 @@
-## 代码片段
+## 代码
 
 - [Function.prototype.bind 实现](./jscode/bind.js)
+- [Tapable 中的 insertBefore 算法](../jscode/insertBefore.md)
 
 ## 算法
 
