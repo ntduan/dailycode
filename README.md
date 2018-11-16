@@ -50,6 +50,7 @@
 - [ ] [#BFS] [#DFS] [maximum-depth-of-binary-tree](./leetcode/maximum-depth-of-binary-tree.ts)
 - [x] [#BFS] [binary-tree-level-order-traversal](./leetcode/binary-tree-level-order-traversal.ts)
 - [ ] [#BFS] [symmetric-tree](./leetcode/symmetric-tree.ts)
+- [ ] [#DFS] [range-sum-of-bst](./leetcode/range-sum-of-bst.ts)
 
 ### 字符串
 
