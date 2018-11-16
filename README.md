@@ -78,6 +78,8 @@
 - [ ] [#KMP-算法] [implement-strstr](./leetcode/implement-strstr.ts)
 - [x] [count-and-say](./leetcode/count-and-say.ts)
 - [ ] [longest-common-prefix](./leetcode/longest-common-prefix.ts)
+- [x] [#双指针] [long-pressed-name](./leetcode/long-pressed-name.ts)
+
 
 ### 数学
 
