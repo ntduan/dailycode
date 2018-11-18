@@ -97,6 +97,7 @@
 - [ ] [count-primes](./leetcode/count-primes.ts)
 - [ ] [fizz-buzz](./leetcode/fizz-buzz.ts)
 - [ ] [#Floyd判圈算法] [happy-number](./leetcode/happy-number.ts)
+- [x] [counting-bits](./leetcode/counting-bits.ts)
 
 ### 排序和搜索
 
