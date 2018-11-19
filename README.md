@@ -45,6 +45,7 @@
 - [x] [#双指针] [sort-array-by-parity-ii](./leetcode/sort-array-by-parity-ii.ts)
 - [x] [minimum-add-to-make-parentheses-valid](./leetcode/minimum-add-to-make-parentheses-valid.ts)
 - [x] [valid-mountain-array](./leetcode/valid-mountain-array.ts)
+- [x] [delete-columns-to-make-sorted](./leetcode/delete-columns-to-make-sorted.ts)
 
 ### 树和图
 
