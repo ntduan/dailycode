@@ -54,6 +54,7 @@
 - [ ] [#BFS] [symmetric-tree](./leetcode/symmetric-tree.ts)
 - [ ] [#DFS] [range-sum-of-bst](./leetcode/range-sum-of-bst.ts)
 - [x] [#DFS #BFS] [merge-two-binary-trees](./leetcode/merge-two-binary-trees.ts)
+- [x] [#DFS #BFS] [invert-binary-tree](./leetcode/invert-binary-tree.ts)
 
 ### 字符串
 
