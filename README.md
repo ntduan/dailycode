@@ -46,7 +46,7 @@
 - [x] [minimum-add-to-make-parentheses-valid](./leetcode/minimum-add-to-make-parentheses-valid.ts)
 - [x] [valid-mountain-array](./leetcode/valid-mountain-array.ts)
 - [x] [delete-columns-to-make-sorted](./leetcode/delete-columns-to-make-sorted.ts)
-- [x] [product-of-array-except-self](./leetcode/product-of-array-except-self.ts)
+- [ ] [product-of-array-except-self](./leetcode/product-of-array-except-self.ts)
 
 ### 树和图
 
