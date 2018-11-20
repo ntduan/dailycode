@@ -83,6 +83,7 @@
 - [x] [count-and-say](./leetcode/count-and-say.ts)
 - [ ] [longest-common-prefix](./leetcode/longest-common-prefix.ts)
 - [x] [#双指针] [long-pressed-name](./leetcode/long-pressed-name.ts)
+- [x] [unique-email-addresses](./leetcode/unique-email-addresses.ts)
 
 
 ### 数学
