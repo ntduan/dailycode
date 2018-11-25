@@ -47,6 +47,7 @@
 - [x] [valid-mountain-array](./leetcode/valid-mountain-array.ts)
 - [x] [delete-columns-to-make-sorted](./leetcode/delete-columns-to-make-sorted.ts)
 - [ ] [product-of-array-except-self](./leetcode/product-of-array-except-self.ts)
+- [x] [minimum-increment-to-make-array-unique/](./leetcode/minimum-increment-to-make-array-unique/.ts)
 
 ### 树和图
 
