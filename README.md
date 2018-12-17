@@ -86,6 +86,7 @@
 - [ ] [longest-common-prefix](./leetcode/longest-common-prefix.ts)
 - [x] [#双指针] [long-pressed-name](./leetcode/long-pressed-name.ts)
 - [x] [unique-email-addresses](./leetcode/unique-email-addresses.ts)
+- [x] [longest-substring-without-repeating-characters](./leetcode/longest-substring-without-repeating-characters.ts)
 
 
 ### 数学
