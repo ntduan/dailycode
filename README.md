@@ -48,6 +48,7 @@
 - [x] [delete-columns-to-make-sorted](./leetcode/delete-columns-to-make-sorted.ts)
 - [ ] [product-of-array-except-self](./leetcode/product-of-array-except-self.ts)
 - [x] [minimum-increment-to-make-array-unique](./leetcode/minimum-increment-to-make-array-unique.ts)
+- [ ] [median-of-two-sorted-arrays](./leetcode/median-of-two-sorted-arrays.ts)
 
 ### 树和图
 
@@ -86,7 +87,7 @@
 - [ ] [longest-common-prefix](./leetcode/longest-common-prefix.ts)
 - [x] [#双指针] [long-pressed-name](./leetcode/long-pressed-name.ts)
 - [x] [unique-email-addresses](./leetcode/unique-email-addresses.ts)
-- [x] [#滑动窗口算法] [longest-substring-without-repeating-characters](./leetcode/longest-substring-without-repeating-characters.ts)
+- [ ] [#滑动窗口算法] [longest-substring-without-repeating-characters](./leetcode/longest-substring-without-repeating-characters.ts)
 
 
 ### 数学
