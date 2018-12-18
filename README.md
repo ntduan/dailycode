@@ -51,6 +51,7 @@
 - [ ] [median-of-two-sorted-arrays](./leetcode/median-of-two-sorted-arrays.ts)
 - [ ] [#回溯][subsets](./leetcode/subsets.ts)
 - [ ] [#回溯 #贪心 #动态规范][jump-game](./leetcode/jump-game.ts)
+- [x] [trapping-rain-water](./leetcode/trapping-rain-water.ts)
 
 ### 树和图
 
