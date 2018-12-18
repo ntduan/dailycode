@@ -50,6 +50,7 @@
 - [x] [minimum-increment-to-make-array-unique](./leetcode/minimum-increment-to-make-array-unique.ts)
 - [ ] [median-of-two-sorted-arrays](./leetcode/median-of-two-sorted-arrays.ts)
 - [ ] [#回溯][subsets](./leetcode/subsets.ts)
+- [ ] [#回溯 #贪心 #动态规范][jump-game](./leetcode/jump-game.ts)
 
 ### 树和图
 
