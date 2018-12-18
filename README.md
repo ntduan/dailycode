@@ -130,6 +130,7 @@
 - [ ] [#动态规划][maximum-subarray](./leetcode/maximum-subarray.ts)
 - [x] [#动态规划][house-robber](./leetcode/house-robber.ts)
 - [x] [#动态规划][partition-array-into-disjoint-intervals](./leetcode/partition-array-into-disjoint-intervals.ts)
+- [x] [#动态规划][unique-paths](./leetcode/unique-paths.ts)
 
 ### 系统设计
 
