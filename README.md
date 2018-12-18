@@ -52,6 +52,7 @@
 - [ ] [#回溯][subsets](./leetcode/subsets.ts)
 - [ ] [#回溯 #贪心 #动态规范][jump-game](./leetcode/jump-game.ts)
 - [x] [trapping-rain-water](./leetcode/trapping-rain-water.ts)
+- [x] [sort-colors](./leetcode/sort-colors.ts)
 
 ### 树和图
 
