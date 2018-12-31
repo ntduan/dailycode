@@ -9,7 +9,6 @@ var subsetsRecursive = function(nums, subsets = [[]], currentSubset = [], startA
   for (let i = startAt; i < nums.length; i++) {
     currentSubset.push(nums[i]);
     subsets.push([...currentSubset]);
-    console.log(subsets);
     subsetsRecursive(nums, subsets, currentSubset, i + 1);
     currentSubset.pop();
   }
